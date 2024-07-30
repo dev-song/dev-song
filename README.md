@@ -1,4 +1,4 @@
-### A new-born web front-end developer
+### A web front-end developer
 🌟 Aiming `technological efficiency` and `aesthetic impressions` both
 
 [![dev-song's github stats](https://github-readme-stats.vercel.app/api?username=dev-song&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
